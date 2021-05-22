@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
+  m_Name: BlendShapeClipNayami
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 0}
+  BlendShapeName: Nayami
+  Preset: 0
+  Values:
+  - RelativePath: Face
+    Index: 2
+    Weight: 0.2
+  - RelativePath: Face
+    Index: 7
+    Weight: 34.8
+  - RelativePath: Face
+    Index: 8
+    Weight: 22.9
+  - RelativePath: Face
+    Index: 19
+    Weight: 2.28
+  - RelativePath: Face
+    Index: 23
+    Weight: 98.1
+  MaterialValues: []
+  IsBinary: 0

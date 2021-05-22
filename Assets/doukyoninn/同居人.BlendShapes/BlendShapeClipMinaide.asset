@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37562b39ff933b245ac2f35d87edbcd6, type: 3}
+  m_Name: BlendShapeClipMinaide
+  m_EditorClassIdentifier: 
+  m_prefab: {fileID: 0}
+  BlendShapeName: Minaide
+  Preset: 0
+  Values:
+  - RelativePath: Face
+    Index: 5
+    Weight: 82.6
+  - RelativePath: Face
+    Index: 6
+    Weight: 78.3
+  - RelativePath: Face
+    Index: 7
+    Weight: 100
+  - RelativePath: Face
+    Index: 20
+    Weight: 100
+  - RelativePath: Face
+    Index: 23
+    Weight: 88.2
+  - RelativePath: Face
+    Index: 26
+    Weight: 86.9
+  - RelativePath: Face
+    Index: 28
+    Weight: 20.5
+  - RelativePath: Face
+    Index: 40
+    Weight: 100
+  MaterialValues: []
+  IsBinary: 0
